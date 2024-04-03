@@ -17,6 +17,7 @@
         'views/product_template.xml',
         'wizard/product_import_views.xml'
     ],
+    'images': ['static/description/background.png', ],
     'installable': True,
     'auto_install': False,
     'price': 29,
